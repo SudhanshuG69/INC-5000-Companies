@@ -67,4 +67,4 @@ A dataset containing information about each company on the INC 5000 list in 2019
 - 
 
 
-### For Detailed Analysis Checkout: [Notebook]()
+### For Detailed Analysis Checkout: [Notebook](https://github.com/SudhanshuG69/INC-5000-Companies/blob/27f0509d3be384728fce8fd7f7140777b24aa9ce/INC_5000_EDA_PROJECT.ipynb)
