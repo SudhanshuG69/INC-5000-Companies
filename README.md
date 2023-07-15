@@ -64,7 +64,8 @@ A dataset containing information about each company on the INC 5000 list in 2019
 - Some companies in the dataset have been able to increase their revenue while reducing staff, but these cases are relatively rare.
 - There is a wide range of revenue growth rates among the companies in the dataset, with some companies experiencing very high growth rates while others are experiencing negative growth.
 - Overall, the dataset provides a useful starting point for further analysis and investigation into the factors that contribute to a company's success or failure.
-- 
+
 
 
 ### For Detailed Analysis Checkout: [Notebook](https://github.com/SudhanshuG69/INC-5000-Companies/blob/27f0509d3be384728fce8fd7f7140777b24aa9ce/INC_5000_EDA_PROJECT.ipynb)
+### For Presentation Checkout: [Presentation](https://github.com/SudhanshuG69/INC-5000-Companies/blob/c837d65c454d2a269c39ec4150aae71afc524a4a/Inc-5000-ppt.pdf)
